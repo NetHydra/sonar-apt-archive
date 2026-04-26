@@ -1,0 +1,6 @@
+Types: deb
+URIs: http://repo.rstrike.my.id/<NOT YET>
+Suites: sonar
+Components: main non-free
+Enabled: yes
+Signed-By: /usr/share/keyrings/nethydra-sonar.key.gpg
